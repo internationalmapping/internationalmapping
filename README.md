@@ -1,4 +1,8 @@
-### Hi there 👋
+# International Mapping
+
+## [Sovereign Limits](https://sovereignlimits.com)
+
+Sovereign Limits is the world's most comprehensive and thoroughly researched digital database of land and maritime boundaries.
 
 <!--
 **internationalmapping/internationalmapping** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
